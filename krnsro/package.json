@@ -1,0 +1,13 @@
+{
+  "name": "kronos-romania-staff",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Kronos Romania events and sanctions owner panel - Cloudflare Workers + Supabase",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.145.0"
+  }
+}
